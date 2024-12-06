@@ -23,6 +23,19 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "expo": {
+    "plugins": [
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Allow $(name) to access your photos.",
+          "savePhotosPermission": "Allow $(name) to save photos.",
+          "videosPermission": "Allow $(name) to access your videos.",
+          "isAccessMediaLocationEnabled": true
+        }
+      ]
+    ]
+  }
   }
 }
