@@ -96,9 +96,7 @@ We welcome contributions to this project! To contribute:
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Create a new pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -106,6 +104,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - React Native community for building great libraries.
 - All contributors who help improve the project.
 
-```
 
-Make sure to save this as `README.md` in the root directory of your project. If you need any further assistance or modifications, feel free to let me know!
